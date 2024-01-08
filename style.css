@@ -1,0 +1,22 @@
+body {
+    font-family: 'Arial', sans-serif;
+    margin: 20px;
+}
+
+header {
+    text-align: center;
+}
+
+h1 {
+    color: #333;
+}
+
+p {
+    color: #555;
+}
+
+#education, #experience {
+    margin-top: 20px;
+}
+
+/* Add more styling based on your preferences */
